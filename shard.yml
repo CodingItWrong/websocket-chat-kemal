@@ -1,0 +1,13 @@
+name: websocket_chat_kemal
+version: 0.1.0
+
+authors:
+  - Josh Justice <me@codingitwrong.com>
+
+targets:
+  websocket_chat_kemal:
+    main: src/websocket_chat_kemal.cr
+
+crystal: 1.0.0
+
+license: MIT
